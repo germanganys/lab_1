@@ -1,0 +1,9 @@
+function test2() as ulong
+    dim a,b as ulong
+    dim c as uint(,)
+    b = 0;
+    a = 1;
+    if a > b then
+        b = a;
+    end if
+end function
