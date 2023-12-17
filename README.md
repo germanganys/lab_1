@@ -200,3 +200,5 @@ flex:  %option reentrant bison-bridge
 Результатом лабораторной работы является программа,
 способная строить абстрактное синтакическое дерево по заданной вариантом грамматике.
 
+# Ссылка на документ для обратной связи
+https://docs.google.com/document/d/1QzIwLMW8o2Xe4hwct6BvpPO6aarYZ7ptjT-3fe-4ne8/edit?usp=sharing
